@@ -6,15 +6,15 @@
 
 Hi {firstName},
 
-Thank you for considering Meetily for {company} — happy to help with your evaluation.
+Thanks for trying Meetily at {company} and glad to have you.
 
-I'm Sandeep, one of the co-founders. I'll be your point of contact as you evaluate Meetily. If you have questions during the trial, run into anything, or want to walk through how Meetily fits your team's workflow, happy to chat.
+I'm Sandeep, one of the co-founders. I'll be your direct point of contact during the trial. If you have questions, run into any issues, or want to walk through how Meetily fits your team's workflow and I'm happy to jump on a call.
 
-Book a 20-minute call: [Link](https://cal.com/meetily/30min)
+Book 20 minutes with me: [Link](https://cal.com/meetily/30min)
 
-We also offer volume discounts. So if you already have a sense of how many licenses you're looking at, just reply with an indicative number and I can share the discounted pricing for your org.
+If you're thinking about rolling this out to your team, we offer volume discounts. Just reply with a rough number of seats and I'll send over pricing.
 
-Your 14-day trial gives you full access — feel free to ping me in case of anything.
+Your 14-day trial gives you full access. Don't hesitate to reach out — I read every reply.
 
 Sandeep
 Co-founder, Meetily
