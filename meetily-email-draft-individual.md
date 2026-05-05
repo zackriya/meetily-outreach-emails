@@ -6,7 +6,7 @@
 
 Hi {firstName},
 
-Thank you for signing up — happy to have you try Meetily.
+Thank you for signing up and happy to have you try Meetily.
 
 I'm Sandeep, one of the co-founders. If you have questions during your trial, run into anything, or want to walk through how to get the most out of it, happy to chat.
 
