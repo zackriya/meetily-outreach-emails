@@ -12,7 +12,7 @@ I'm Sandeep, one of the co-founders. If you have questions during your trial, ru
 
 Book a 20-minute call: [Link](https://cal.com/meetily/30min)
 
-Your 14-day trial gives you full access — feel free to ping me in case of anything.
+Your 14-day trial gives you full access. Please feel free to ping me in case of anything.
 
 Sandeep
 Co-founder, Meetily
