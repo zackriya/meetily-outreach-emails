@@ -6,13 +6,13 @@
 
 Hi {firstName},
 
-I noticed you requested a Meetily trial a little while ago but haven't had a chance to activate your license yet.
+Noticed you signed up for Meetily but haven't activated yet — wanted to check in.
 
-Thought I'd reach out directly — if you ran into any issues with the activation, I'm happy to help get it sorted. Or if you'd like a quick walkthrough before diving in, we can do that too.
+If you hit any snags during setup, I'm happy to help sort it out. Or if you'd prefer a quick walkthrough before jumping in, we can do that.
 
 Book a 20-minute call: [Link](https://cal.com/meetily/30min)
 
-Your trial gives you full access — happy to make sure you get to use it.
+Your 14-day trial is waiting, just need to activate to start the clock.
 
 Sandeep
 Co-founder, Meetily
