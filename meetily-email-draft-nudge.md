@@ -1,20 +1,28 @@
-**Subject:** `Your Meetily trial — just checking in`
+**Subject:** `Your Meetily trial: just checking in`
 
-**From:** Sandeep | Meetily
+**From:** Sandeep, Co-founder, Meetily
 
 ---
 
 Hi {firstName},
 
-Noticed you signed up for Meetily but haven't activated yet — wanted to check in.
+I noticed you requested a Meetily trial a little while ago but haven't activated your license yet. Let's fix that.
 
-If you hit any snags during setup, I'm happy to help sort it out. Or if you'd prefer a quick walkthrough before jumping in, we can do that.
+Download Meetily Pro: https://meetily.ai/downloads/pro
 
-Book a 20-minute call: [Link](https://cal.com/meetily/30min)
+Activate with this key:
+{licenseKey}
 
-Your 14-day trial is waiting, just need to activate to start the clock.
+Remember to copy from MEETILY-PRO all the way through the trailing == so you don't miss the end of the key.
+
+If activation hits a snag, just reply and I'll sort it. Or if you'd like a 20-minute walkthrough before diving in, I'm happy to do that.
+
+Book a call: https://cal.com/meetily/30min
+
+Your trial gives you full access. Happy to make sure you get to use it.
 
 Sandeep
 Co-founder, Meetily
 
 ---
+
