@@ -15,7 +15,7 @@ Activate with this key:
 
 Remember to copy from MEETILY-PRO all the way through the trailing == so you don't miss the end of the key.
 
-If activation hits a snag, just reply and I'll sort it. Or if you'd like a 20-minute walkthrough before diving in, I'm happy to do that.
+If you hit any snags during setup, I'm happy to help sort it out. Or if you'd prefer a quick walkthrough before jumping in, we can do that.
 
 Book a call: https://cal.com/meetily/30min
 
