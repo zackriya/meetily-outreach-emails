@@ -6,7 +6,9 @@
 
 Hi {firstName},
 
-I noticed you requested a Meetily trial a little while ago but haven't activated your license yet. Let's fix that.
+I noticed you requested a Meetily trial a little while ago but haven't activated your license yet. 
+
+Whenever you're ready, here's everything you need:
 
 Download Meetily Pro: https://meetily.ai/downloads/pro
 
@@ -21,6 +23,7 @@ Book a call: https://cal.com/meetily/30min
 
 Your trial gives you full access. Happy to make sure you get to use it.
 
+Warm Regards,
 Sandeep
 Co-founder, Meetily
 
